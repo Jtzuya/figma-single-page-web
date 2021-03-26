@@ -1,2 +1,2 @@
 Readme test
-messing with git 
+practicing git command
